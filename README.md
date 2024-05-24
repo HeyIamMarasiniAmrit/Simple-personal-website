@@ -20,7 +20,7 @@ Contact
 Features
 Home page with introduction and welcome message
 Portfolio section showcasing projects
-Blog section with posts
+
 Contact form for getting in touch
 Responsive design for mobile and desktop
 Smooth navigation using React Router
@@ -51,7 +51,7 @@ Your site should now be running at http://localhost:3000.
 
 Usage
 Home Page: Brief introduction and welcome message.
-Portfolio: Showcase of your projects.
+Portfolio: Showcase of  projects.
 Blog: List of blog posts.
 Contact: Form to contact you directly.
 Contributing
@@ -61,18 +61,10 @@ Fork the repository.
 
 Create a new branch:
 
-sh
-Copy code
-git checkout -b feature/YourFeatureName
-Make your changes and commit them:
-
 
 git commit -m 'Add some feature'
 Push to the branch:
 
-
-git push origin feature/YourFeatureName
-Submit a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -84,7 +76,7 @@ Email: amritmaraasi163@gmail.com
 LinkedIn: amrit marasini
 Twitter: @yamritmarasini
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 
 Currently, two official plugins are available:
 
