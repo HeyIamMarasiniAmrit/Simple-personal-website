@@ -1,8 +1,7 @@
-# React + Vite
+# React - Router
 ![Screenshot 2024-05-24 202507](https://github.com/HeyIamMarasiniAmrit/Simple-personal-website/assets/101445427/95e5646c-cae4-422a-b6e5-cd0940f23893)
 
 
-Sure! Here's a sample README for your personal site project using React Router:
 
 Personal Website
 This is the repository for my personal website, built using React and React Router. The site showcases my portfolio, blog, and contact information.
